@@ -5,6 +5,9 @@
     "email": "anubhavpathak99@gmail.com"
   },
   "records": {
-    "CNAME": "anubhav-pathak.github.io"
+    "CNAME": "anubhav-pathak.github.io",
+    "TXT": {
+      "_github-pages-challenge-Anubhav-Pathak": "af5fdf5f2c55b83aade6d80e125efd"
+    }
   }
 }
